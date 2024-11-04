@@ -142,6 +142,9 @@ ORDER BY total_sales DESC;
 ## Dashboard and Key Findings
 The interactive dashboard for this analysis can be accessed at [Kimia Farma Analytics Dashboard](https://lookerstudio.google.com/reporting/9c3fdd0b-9109-4007-a3c7-ff0e029a6ee4). 
 
+![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=1q6X02_DqwBmGfH8XU_vfIHP8XAJWBUCd)
+
+
 ### Overall Performance
 - Total Profit: Rp 98.5M
 - Total Sales: Rp 347.0M
